@@ -392,10 +392,12 @@ section.cases {
 
 .product-info>p {
     font-size: 12px;
+    background: transparent;
 }
 
 .product-info>p>span {
     color: #bdc0c2;
+    background-color: transparent;
 }
 
 .product-info>div {
